@@ -1,6 +1,6 @@
 # Hangman-MiniGame-Project
 
-An basic python project that follows the PEP8 coding style guidelines and utilizes the following python fundamentals:
+A basic python project that follows the PEP8 coding style guidelines and utilizes the following python fundamentals:
 
 1. PEP 8 coding style.
 2. Data types and Operations.
