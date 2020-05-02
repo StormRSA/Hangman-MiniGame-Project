@@ -72,7 +72,7 @@ class HangmanGame:
 
     # Saves all used letter:
     def save_used_letters(self, player_input):
-        # Store positions for each character of the game word in a list.
+        # Store positions for each character of the game word in a list:
         self.characters_index = []
         for characters in range(len(self.game_word)):
             if self.game_word[characters] == player_input:
@@ -102,6 +102,6 @@ class HangmanGame:
             return
 
 
-# initialize game and and user interface
+# Starts HangmanGame:
 start_game = HangmanGame()
 start_game.game_initialization()
