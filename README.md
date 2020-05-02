@@ -1,5 +1,7 @@
 # Hangman-MiniGame-Project
 
+[![CodeFactor](https://www.codefactor.io/repository/github/stormrsa/hangman-minigame-project/badge)](https://www.codefactor.io/repository/github/stormrsa/hangman-minigame-project)
+
 A basic python project that follows the PEP8 coding style guidelines and utilizes the following python fundamentals:
 
 1. PEP 8 coding style.
